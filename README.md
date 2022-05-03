@@ -12,7 +12,7 @@ The following features and financial services are showcased within FinanceNow:
 - Additional credit products
 - Job recommendations
 
-You can try out the FinanceNow demo [here](https://financenow.argyle.com/) and learn more about the features [here](
+You can try out the FinanceNow demo [here](https://financenow.argyle.com/) and learn more about the features [here](https://argyle.com/docs/developer-tools/financenow).
 
 ![Untitled](https://user-images.githubusercontent.com/18395671/165950631-826bed3e-b825-4a6c-8a5a-2d7bf2151932.gif)
 
