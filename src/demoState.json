@@ -1,0 +1,813 @@
+{
+  "isPdConfigured": true,
+  "isOnboarded": true,
+  "storeVer": 5,
+  "userId": "01808454-e806-e9ae-f1ee-f29fe27f7f95",
+  "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiIwMTdmMDdmMi0xODU5LWFjN2UtMTA1NC1jN2JlOTAyOGVhMmUiLCJleHAiOjE2NTQwNzk1OTgsImlhdCI6MTY1MTQ4NzU5OCwiaXNzIjoiYXJneWxlLWNvcmUtYXV0aC1wcm9kIiwianRpIjoiNjY5NDQ0MTItNzgyNS00NmU5LTg3MjQtNmFhNjZkMTk0OWJmIiwic3ViIjoiMDE4MDg0NTQtZTgwNi1lOWFlLWYxZWUtZjI5ZmUyN2Y3Zjk1IiwidXNlcl9pZCI6IjAxODA4NDU0LWU4MDYtZTlhZS1mMWVlLWYyOWZlMjdmN2Y5NSJ9.O8Iqo1ZIlusz_gQwrjF1Fb_uWDT4j2Iip3KY-gSrb2Y",
+  "accountIds": [
+    "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+    "01808455-68c6-a50e-139e-de585bd6f86c"
+  ],
+  "linkItemIds": ["fedex", "uber"],
+  "fakeIncome": {
+    "fedex": {
+      "2019": {
+        "monthly": [
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4325,
+            "deductions": 59,
+            "taxes": 503,
+            "gross_pay": 4887
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1754,
+            "deductions": 133,
+            "taxes": 265,
+            "gross_pay": 2152
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 930,
+            "deductions": 267,
+            "taxes": 150,
+            "gross_pay": 1347
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4039,
+            "deductions": 54,
+            "taxes": 473,
+            "gross_pay": 4566
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 2218,
+            "deductions": 75,
+            "taxes": 244,
+            "gross_pay": 2537
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 2105,
+            "deductions": 284,
+            "taxes": 280,
+            "gross_pay": 2669
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 800,
+            "deductions": 225,
+            "taxes": 166,
+            "gross_pay": 1191
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1647,
+            "deductions": 102,
+            "taxes": 185,
+            "gross_pay": 1934
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3929,
+            "deductions": 300,
+            "taxes": 410,
+            "gross_pay": 4639
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3231,
+            "deductions": 211,
+            "taxes": 363,
+            "gross_pay": 3805
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 2860,
+            "deductions": 69,
+            "taxes": 348,
+            "gross_pay": 3277
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4070,
+            "deductions": 290,
+            "taxes": 427,
+            "gross_pay": 4787
+          }
+        ],
+        "total": {
+          "deductions": 2069,
+          "gross_pay": 37791,
+          "net_pay": 31908,
+          "taxes": 3814
+        }
+      },
+      "2020": {
+        "monthly": [
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1246,
+            "deductions": 169,
+            "taxes": 175,
+            "gross_pay": 1590
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 2450,
+            "deductions": 187,
+            "taxes": 264,
+            "gross_pay": 2901
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4671,
+            "deductions": 214,
+            "taxes": 484,
+            "gross_pay": 5369
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3818,
+            "deductions": 62,
+            "taxes": 397,
+            "gross_pay": 4277
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1836,
+            "deductions": 173,
+            "taxes": 271,
+            "gross_pay": 2280
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3457,
+            "deductions": 293,
+            "taxes": 418,
+            "gross_pay": 4168
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1563,
+            "deductions": 105,
+            "taxes": 161,
+            "gross_pay": 1829
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 973,
+            "deductions": 168,
+            "taxes": 160,
+            "gross_pay": 1301
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3697,
+            "deductions": 173,
+            "taxes": 386,
+            "gross_pay": 4256
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 2752,
+            "deductions": 262,
+            "taxes": 299,
+            "gross_pay": 3313
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3865,
+            "deductions": 219,
+            "taxes": 400,
+            "gross_pay": 4484
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3396,
+            "deductions": 188,
+            "taxes": 418,
+            "gross_pay": 4002
+          }
+        ],
+        "total": {
+          "deductions": 2213,
+          "gross_pay": 39770,
+          "net_pay": 33724,
+          "taxes": 3833
+        }
+      },
+      "2021": {
+        "monthly": [
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1861,
+            "deductions": 174,
+            "taxes": 229,
+            "gross_pay": 2264
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4448,
+            "deductions": 118,
+            "taxes": 544,
+            "gross_pay": 5110
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 2461,
+            "deductions": 267,
+            "taxes": 308,
+            "gross_pay": 3036
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3588,
+            "deductions": 113,
+            "taxes": 365,
+            "gross_pay": 4066
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3571,
+            "deductions": 193,
+            "taxes": 396,
+            "gross_pay": 4160
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4118,
+            "deductions": 240,
+            "taxes": 420,
+            "gross_pay": 4778
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1799,
+            "deductions": 153,
+            "taxes": 188,
+            "gross_pay": 2140
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3604,
+            "deductions": 143,
+            "taxes": 427,
+            "gross_pay": 4174
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4531,
+            "deductions": 93,
+            "taxes": 505,
+            "gross_pay": 5129
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4739,
+            "deductions": 81,
+            "taxes": 549,
+            "gross_pay": 5369
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 845,
+            "deductions": 192,
+            "taxes": 130,
+            "gross_pay": 1167
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 4057,
+            "deductions": 164,
+            "taxes": 475,
+            "gross_pay": 4696
+          }
+        ],
+        "total": {
+          "deductions": 1931,
+          "gross_pay": 46089,
+          "net_pay": 39622,
+          "taxes": 4536
+        }
+      },
+      "2022": {
+        "monthly": [
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3237,
+            "deductions": 133,
+            "taxes": 352,
+            "gross_pay": 3722
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3994,
+            "deductions": 153,
+            "taxes": 448,
+            "gross_pay": 4595
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 3309,
+            "deductions": 150,
+            "taxes": 359,
+            "gross_pay": 3818
+          },
+          {
+            "account_id": "01808454-e9d3-0ed6-b7e0-d5bf1cf8e6d2",
+            "link_item": "fedex",
+            "net_pay": 1548,
+            "deductions": 241,
+            "taxes": 243,
+            "gross_pay": 2032
+          }
+        ],
+        "total": {
+          "deductions": 677,
+          "gross_pay": 14167,
+          "net_pay": 12088,
+          "taxes": 1402
+        }
+      }
+    },
+    "uber": {
+      "2019": {
+        "monthly": [
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 695,
+            "deductions": 156,
+            "taxes": 83,
+            "gross_pay": 934
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4099,
+            "deductions": 117,
+            "taxes": 416,
+            "gross_pay": 4632
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4004,
+            "deductions": 250,
+            "taxes": 500,
+            "gross_pay": 4754
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3234,
+            "deductions": 144,
+            "taxes": 385,
+            "gross_pay": 3763
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2480,
+            "deductions": 110,
+            "taxes": 315,
+            "gross_pay": 2905
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3258,
+            "deductions": 69,
+            "taxes": 346,
+            "gross_pay": 3673
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4933,
+            "deductions": 252,
+            "taxes": 501,
+            "gross_pay": 5686
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2891,
+            "deductions": 146,
+            "taxes": 343,
+            "gross_pay": 3380
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 1314,
+            "deductions": 103,
+            "taxes": 185,
+            "gross_pay": 1602
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2620,
+            "deductions": 270,
+            "taxes": 329,
+            "gross_pay": 3219
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2959,
+            "deductions": 94,
+            "taxes": 333,
+            "gross_pay": 3386
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3401,
+            "deductions": 212,
+            "taxes": 345,
+            "gross_pay": 3958
+          }
+        ],
+        "total": {
+          "deductions": 1923,
+          "gross_pay": 41892,
+          "net_pay": 35888,
+          "taxes": 4081
+        }
+      },
+      "2020": {
+        "monthly": [
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 1229,
+            "deductions": 93,
+            "taxes": 131,
+            "gross_pay": 1453
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 952,
+            "deductions": 168,
+            "taxes": 148,
+            "gross_pay": 1268
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3146,
+            "deductions": 139,
+            "taxes": 389,
+            "gross_pay": 3674
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4128,
+            "deductions": 52,
+            "taxes": 509,
+            "gross_pay": 4689
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4813,
+            "deductions": 275,
+            "taxes": 550,
+            "gross_pay": 5638
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 1822,
+            "deductions": 122,
+            "taxes": 238,
+            "gross_pay": 2182
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3344,
+            "deductions": 169,
+            "taxes": 423,
+            "gross_pay": 3936
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 1422,
+            "deductions": 297,
+            "taxes": 213,
+            "gross_pay": 1932
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4343,
+            "deductions": 79,
+            "taxes": 444,
+            "gross_pay": 4866
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3792,
+            "deductions": 202,
+            "taxes": 395,
+            "gross_pay": 4389
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 1828,
+            "deductions": 234,
+            "taxes": 210,
+            "gross_pay": 2272
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3001,
+            "deductions": 138,
+            "taxes": 326,
+            "gross_pay": 3465
+          }
+        ],
+        "total": {
+          "deductions": 1968,
+          "gross_pay": 39764,
+          "net_pay": 33820,
+          "taxes": 3976
+        }
+      },
+      "2021": {
+        "monthly": [
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2576,
+            "deductions": 294,
+            "taxes": 266,
+            "gross_pay": 3136
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4145,
+            "deductions": 290,
+            "taxes": 499,
+            "gross_pay": 4934
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4232,
+            "deductions": 133,
+            "taxes": 468,
+            "gross_pay": 4833
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2925,
+            "deductions": 236,
+            "taxes": 390,
+            "gross_pay": 3551
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 770,
+            "deductions": 119,
+            "taxes": 100,
+            "gross_pay": 989
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2479,
+            "deductions": 265,
+            "taxes": 288,
+            "gross_pay": 3032
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 1611,
+            "deductions": 127,
+            "taxes": 217,
+            "gross_pay": 1955
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2042,
+            "deductions": 134,
+            "taxes": 211,
+            "gross_pay": 2387
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3458,
+            "deductions": 278,
+            "taxes": 380,
+            "gross_pay": 4116
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 2187,
+            "deductions": 285,
+            "taxes": 273,
+            "gross_pay": 2745
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4459,
+            "deductions": 75,
+            "taxes": 479,
+            "gross_pay": 5013
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4543,
+            "deductions": 296,
+            "taxes": 465,
+            "gross_pay": 5304
+          }
+        ],
+        "total": {
+          "deductions": 2532,
+          "gross_pay": 41995,
+          "net_pay": 35427,
+          "taxes": 4036
+        }
+      },
+      "2022": {
+        "monthly": [
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3660,
+            "deductions": 237,
+            "taxes": 414,
+            "gross_pay": 4311
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 4602,
+            "deductions": 284,
+            "taxes": 503,
+            "gross_pay": 5389
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3950,
+            "deductions": 279,
+            "taxes": 440,
+            "gross_pay": 4669
+          },
+          {
+            "account_id": "01808455-68c6-a50e-139e-de585bd6f86c",
+            "link_item": "uber",
+            "net_pay": 3376,
+            "deductions": 253,
+            "taxes": 383,
+            "gross_pay": 4012
+          }
+        ],
+        "total": {
+          "deductions": 1053,
+          "gross_pay": 18381,
+          "net_pay": 15588,
+          "taxes": 1740
+        }
+      }
+    }
+  },
+  "credit": {
+    "isActive": true,
+    "amount": 217100,
+    "interest": 3,
+    "transactions": [
+      {
+        "id": "-1",
+        "employer": "Your FinanceNow balance",
+        "initials": "now",
+        "datetime": "2022-04-01T10:11:56.018Z",
+        "amount": 217100
+      },
+      {
+        "id": "0",
+        "employer": "Fedex",
+        "logo": "https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/fedex.png",
+        "datetime": "2022-04-02T10:19:56.018Z",
+        "amount": -18091.666666666668
+      },
+      {
+        "id": "1",
+        "employer": "Fedex",
+        "logo": "https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/fedex.png",
+        "datetime": "2022-03-03T11:00:56.018Z",
+        "amount": -18091.666666666668
+      },
+      {
+        "id": "2",
+        "employer": "Fedex",
+        "logo": "https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/fedex.png",
+        "datetime": "2022-02-01T11:13:56.018Z",
+        "amount": -18091.666666666668
+      }
+    ]
+  },
+  "card": {
+    "isActive": true,
+    "last4Digits": "1781"
+  },
+  "earlypay": {
+    "isActive": true,
+    "isPaused": false,
+    "amount": 55.188,
+    "transactions": [
+      {
+        "id": "0",
+        "employer": "Fedex",
+        "logo": "https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/fedex.png",
+        "datetime": "2022-04-02T10:40:40.577Z",
+        "amount": 55.188
+      },
+      {
+        "id": "1",
+        "employer": "Fedex",
+        "logo": "https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/fedex.png",
+        "datetime": "2022-03-03T11:12:40.577Z",
+        "amount": 55.188
+      },
+      {
+        "id": "2",
+        "employer": "Fedex",
+        "logo": "https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/fedex.png",
+        "datetime": "2022-02-01T11:57:40.577Z",
+        "amount": 55.188
+      }
+    ]
+  },
+  "accounts": {
+    "selectedIndex": 0
+  },
+  "income": {
+    "selectedMode": 0,
+    "selectedYear": 2022,
+    "selectedMonth": 5
+  }
+}
