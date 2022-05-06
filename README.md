@@ -19,7 +19,7 @@ You can try out the FinanceNow demo [here](https://financenow.argyle.com/) and l
 
 ## Getting Started
 
-1. Rename `env.example` to `.env` and fill in Argyle related keys from your https://console.argyle.com account. Stytch and Unit (maybe it's good we didn't go for deeper Unit integration) information is optional.
+1. Rename `env.example` to `.env` and fill in Argyle related keys from your https://console.argyle.com account. Stytch and Unit information is optional.
 
 2. Install the dependencies
 ```bash
