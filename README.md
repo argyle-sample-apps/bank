@@ -53,8 +53,6 @@ yarn dev
 * Components - dumb components that do not carry their own state but rather use what is provided via props.
 * Views - smart views that have their own state, business logic and are reused over multiple screens.
 
-[next/router](https://nextjs.org/docs/api-reference/next/router) to minimize third party libs since the project is already based on `next`.
-
 [tailwindcss](https://tailwindcss.com/) was chosen for styling as it provides rapid and easy on-the-go styling. `tailwind.config.js` file contains custom styling presets like fonts and colors.
 
 [currency](https://currency.js.org/) is used for all currency related transformations and calculations. All currency-related results in that are stored locally are in cents (integers) to avoid any potential nuances with non-integer number manipulations.
