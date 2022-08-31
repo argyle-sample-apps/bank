@@ -1,4 +1,4 @@
-![Cover](https://user-images.githubusercontent.com/18395671/187632185-08ef17d7-2e85-405f-ad10-caf97c3cd9d7.jpg)
+![bank github](https://user-images.githubusercontent.com/18395671/187648922-d6ad8a10-5ba2-4f7a-b5c1-0768fe95f393.png)
 
 Bank App combines the power of [Argyle's](https://www.argyle.com) user-permissioned payroll connectivity, [Unit's](https://www.unit.co/) powerful banking services, and [Stytch's](https://stytch.com) passwordless authentication platform. These components create a cohesive set of financial services, all built around income and employment data to enhance the way people manage their finances.
 
