@@ -1,20 +1,20 @@
-![finance-now-email-cover](https://user-images.githubusercontent.com/18395671/165950261-4f156a25-74d4-4393-99d9-0f009c6844cd.jpeg)
+![Cover](https://user-images.githubusercontent.com/18395671/187632185-08ef17d7-2e85-405f-ad10-caf97c3cd9d7.jpg)
 
-FinanceNow combines the power of [Argyle's](https://www.argyle.com) user-permissioned payroll connectivity, [Unit's](https://www.unit.co/) powerful banking services, and [Stytch's](https://stytch.com) passwordless authentication platform. These components create a cohesive set of financial services, all built around income and employment data to enhance the way people manage their finances.
+Bank App combines the power of [Argyle's](https://www.argyle.com) user-permissioned payroll connectivity, [Unit's](https://www.unit.co/) powerful banking services, and [Stytch's](https://stytch.com) passwordless authentication platform. These components create a cohesive set of financial services, all built around income and employment data to enhance the way people manage their finances.
 
-The following features and financial services are showcased within FinanceNow:
+The following features and financial services are showcased within Bank App:
 
 - Connecting work accounts
 - Tracking income
 - Linked checking and savings accounts
-- Switching direct deposit to FinanceNow cards
+- Switching direct deposit to GoodBank cards
 - Providing Earned Wage Access
 - Additional credit products
 - Job recommendations
 
-You can try out the FinanceNow demo [here](https://financenow.argyle.com/) and learn more about the features [here](https://argyle.com/docs/developer-tools/financenow).
+You can try out the Bank App demo [here](https://sampleapps.argyle.com/bank) and learn more about the features [here](https://docs.argyle.com/guides/docs/bank-app).
 
-![Untitled](https://user-images.githubusercontent.com/18395671/165950631-826bed3e-b825-4a6c-8a5a-2d7bf2151932.gif)
+![good-bank-income](https://user-images.githubusercontent.com/18395671/187632353-ec324a63-6ce9-4035-8dbc-8d7655def50e.gif)
 
 
 ## Getting Started
