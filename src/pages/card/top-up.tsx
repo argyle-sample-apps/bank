@@ -67,7 +67,7 @@ export default function CardTopUpPage() {
         </Heading>
         <Paragraph className="mb-6">
           Connect your work account and enable deposit switch to automatically
-          top up your FinanceNow debit card.
+          top up your GoodBank debit card.
         </Paragraph>
         <div className="flex">
           <Button as="button" onClick={handleSetup} disabled={!linkInstance}>

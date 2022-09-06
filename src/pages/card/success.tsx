@@ -17,7 +17,7 @@ export default function CardSuccessPage() {
       </DecorativeIconWrapper>
       <Heading className="mb-3">Your card is on its way</Heading>
       <Paragraph className="mb-6">
-        Your FinanceNow physical card is being produced and sent to you. The virtual
+        Your GoodBank physical card is being produced and sent to you. The virtual
         copy of the card is already available for online purchases and Apple
         Pay.
       </Paragraph>

@@ -35,7 +35,7 @@ export default function EarlyPayOnboardingPage() {
         </Heading>
         <Paragraph className="mb-3">
           Don’t wait weeks or months for your paycheck. Deposit the bulk of your
-          income to your FinanceNow debit card and use your hard earned cash
+          income to your GoodBank debit card and use your hard earned cash
           right away.
         </Paragraph>
         <div className="mt-4 flex">

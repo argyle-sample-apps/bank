@@ -90,7 +90,7 @@ function getEncryptedConfig(depositAccount: DepositAccount) {
 
   const config = {
     bank_account: {
-      bank_name: "Finance Now",
+      bank_name: "GoodBank",
       routing_number: routingNumber,
       account_number: accountNumber,
       account_type: "checking",

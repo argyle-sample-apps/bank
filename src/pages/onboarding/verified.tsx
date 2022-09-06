@@ -25,7 +25,7 @@ export default function VerifiedPage() {
       <Heading className="mb-3">Membership verified</Heading>
       <Paragraph className="mb-6">
         Your membership has been successfully verified. You are ready to use
-        FinanceNow.
+        GoodBank.
       </Paragraph>
       <div className="flex">
         <Button onClick={handleHome} as="button">

@@ -116,7 +116,7 @@ export default function EarlyPayConfirmPage() {
         checked={isAccountConnected}
       />
       <ToggleButton
-        label="Direct your income to FinanceNow"
+        label="Direct your income to GoodBank"
         checked={isPdConfigured}
       />
       <div className="mt-4 flex">

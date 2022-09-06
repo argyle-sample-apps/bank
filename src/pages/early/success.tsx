@@ -21,7 +21,7 @@ export default function EarlyPaySuccessPage() {
       </DecorativeIconWrapper>
       <Heading className="mb-3">Success</Heading>
       <Paragraph>
-        FinanceNow will deposit{" "}
+        GoodBank will deposit{" "}
         <Strong>{formatter.format(earlyPayAmount)}</Strong> to your account.
         This is based on your last paycheck of{" "}
         <Strong>{formatter.format(lastPayoutAmount)}</Strong>.

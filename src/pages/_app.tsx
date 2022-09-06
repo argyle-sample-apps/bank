@@ -40,7 +40,7 @@ function MyApp({ Component, pageProps, router }: AppPropsWithLayout) {
         />
         <meta name="description" content="Description" />
         <meta name="keywords" content="Keywords" />
-        <title>Finance Now</title>
+        <title>GoodBank</title>
 
         <link rel="manifest" href="/manifest.json" />
         <link

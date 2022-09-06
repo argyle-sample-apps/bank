@@ -18,7 +18,7 @@ export default function IncomeOnboardingPage() {
       <Paragraph className="mb-6">
         Understand your income distribution by source. See every deduction, tax,
         dollar and cent, and unlock your productivity trends; all by connecting
-        your work to FinanceNow.
+        your work to GoodBank.
       </Paragraph>
       <div className="flex">
         <InlineButton as="button">Add income</InlineButton>

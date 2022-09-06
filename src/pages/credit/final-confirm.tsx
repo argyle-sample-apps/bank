@@ -27,7 +27,7 @@ export default function CreditConfirmPage() {
       `https://res.cloudinary.com/argyle-media/image/upload/v1600705681/partner-logos/${profile?.employer}.png`,
       amountDue
     );
-    // addBalanceIncome(creditAmount, "Your FinanceNow balance", "now");
+    // addBalanceIncome(creditAmount, "Your GoodBank balance", "now");
 
     setFeatureState("credit", true);
 

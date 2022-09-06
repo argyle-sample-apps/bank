@@ -129,7 +129,7 @@ export default function EarlyPayConfirmPage() {
         className="mb-4"
       />
       <ToggleButton
-        label="Direct your income to FinanceNow"
+        label="Direct your income to GoodBank"
         checked={isPdConfigured}
       />
       <Splitter className="mb-6 mt-4" />

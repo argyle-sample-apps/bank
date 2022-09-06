@@ -127,7 +127,7 @@ export default function Home() {
       </div>
       <Block
         header="Income"
-        text="Understand how much you make and how much you can make by adding multiple income sources to FinanceNow."
+        text="Understand how much you make and how much you can make by adding multiple income sources to GoodBank."
         button="Add income"
         icon={AddSmallIcon}
         link="/income"
@@ -145,7 +145,7 @@ export default function Home() {
       />
       <Block
         header="Balance"
-        text="Move funds from your income source to FinanceNow."
+        text="Move funds from your income source to GoodBank."
         button="Set up direct deposit"
         icon={DepositSmallIcon}
         link="/accounts"
@@ -158,7 +158,7 @@ export default function Home() {
       />
       <Block
         header="Card"
-        text="Set up a secure debit card with FinanceNow."
+        text="Set up a secure debit card with GoodBank."
         button="Create a card"
         icon={CardSmallIcon}
         link="/card"

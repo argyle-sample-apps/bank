@@ -147,7 +147,7 @@ export function transferTranslation(
       case TransferTypes.withdrawSavings:
         translations = {
           heading: "Withdraw money from your savings account",
-          text: "The funds will be moved from your savings account to your balance. Your balance is connected to and can be accessed with your FinanceNow debit card.",
+          text: "The funds will be moved from your savings account to your balance. Your balance is connected to and can be accessed with your GoodBank debit card.",
           button: "Withdraw now",
         };
         break;

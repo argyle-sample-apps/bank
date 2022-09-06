@@ -41,7 +41,7 @@ const Icon = ({
   logo,
   index,
 }: IconProps) => {
-  if (label == "Your FinanceNow balance") {
+  if (label == "Your GoodBank balance") {
     // Small hack to not need any more very specialised parameters
     // or for non-UI components to know UI details
     return (

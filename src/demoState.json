@@ -742,7 +742,7 @@
     "transactions": [
       {
         "id": "-1",
-        "employer": "Your FinanceNow balance",
+        "employer": "Your GoodBank balance",
         "initials": "now",
         "datetime": "2022-04-01T10:11:56.018Z",
         "amount": 217100

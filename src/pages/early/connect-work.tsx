@@ -56,7 +56,7 @@ export default function EarlyPayConnectPage() {
         <Heading className="mb-3">Start by connecting your work</Heading>
         <Paragraph className="mb-3">
           Make your employment history and experience work for you. When
-          FinanceNow sees what you earned before, it’s easy for us to pay you
+          GoodBank sees what you earned before, it’s easy for us to pay you
           early.
         </Paragraph>
         <div className="mt-4 mb-6 flex">

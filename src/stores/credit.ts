@@ -14,7 +14,7 @@ export function generateCreditTransactions(
   const transactions: Transaction[] = [
     {
       id: "-1",
-      employer: "Your FinanceNow balance",
+      employer: "Your GoodBank balance",
       initials: "now",
       datetime: getDate(-31),
       amount: totalAmount,

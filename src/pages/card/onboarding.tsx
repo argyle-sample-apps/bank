@@ -14,7 +14,7 @@ export default function CardOnboardingPage() {
       </div>
       <Heading className="mb-3">Create a card</Heading>
       <Paragraph className="mb-3">
-        The FinanceNow debit card is the best way to pay for goods and services online
+        The GoodBank debit card is the best way to pay for goods and services online
         and offline.
       </Paragraph>
       <div className="mt-4 flex">
